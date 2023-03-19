@@ -1,2 +1,2 @@
 # Hackathon-Bradesco
-Código utilizado no tratamento de dados para o Hackathon Bradesco 2023 
+Machine Learning desenvolvida para categorizar e oferecer os melhores produtos financeiros para clientes do bradesco
